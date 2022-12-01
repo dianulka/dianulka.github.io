@@ -25,7 +25,7 @@ Slowpoke to różowy Pokémon, który przypomina krzyżówkę salamandry i hipop
 
 Slowpoke ma notorycznie słaby intelekt i często zapomina, co robił. Reakcja na bodźce zewnętrzne zajmuje dużo czasu. Na przykład przetworzenie bólu może potrwać do pięciu sekund, a zauważenie ugryzienia ogona może zająć cały dzień. Slowpoke jest powszechnie spotykany na brzegu wody. W niektórych miejscach uważa się, że ziewanie Slowpoke'a powoduje deszcz. Ten Pokémon jest czczony w tych obszarach.
 
-
+![](slowpoke.jpg)
 
 
 ## Jigglypuff
@@ -35,3 +35,4 @@ Jigglypuff różowy Pokémon o kulistym ciele. Ma spiczaste uszy z czarnymi wnę
 Jigglypuff używa swoich oczu do hipnotyzowania przeciwników. Gdy to osiągnie, nadmuchuje płuca i zacznie śpiewać kojącą kołysankę. Jeśli przeciwnik nie zasypia, Jigglypuff narazi na niebezpieczeństwo własne życie, śpiewając, dopóki nie zabraknie mu powietrza. Jest w stanie dopasować długość fali swojego głosu do fal mózgowych kogoś w głębokim śnie. Pomaga to zapewnić senność przeciwnikom. Jego zakres głosu przekracza 12 oktaw, ale jego umiejętności zależą od osoby. Jego piosenka różni się w zależności od regionu, a w niektórych obszarach brzmi jak krzyk. Jigglypuffa można znaleźć głównie na zielonych równinach i trawiastych łąkach.
 
 
+![](pobrane%20(1).jpg)
